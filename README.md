@@ -1,3 +1,4 @@
+- 📱 Frontend Mobile Developer
 - 🔭 Trabalhando há 13 meses com Flutter
 - 📚 Estudando de forma independente programação desde 2021
 - 🏫 Cursando 4º ano no curso técnico de TI do IFSul, Venâncio Aires
