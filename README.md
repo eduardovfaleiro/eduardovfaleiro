@@ -1,5 +1,5 @@
 - 📱 Front-End Mobile Developer
-- 💻 Trabalhando desde abril de 2022 com Flutter
+- 💻 Apr 2022 -> Aug 2024 Dev Flutter
 - 📚 Estudando de forma independente programação desde 2021
 - 🏫 Técnico de TI pelo IFSul campus Venâncio Aires, 2023
 
