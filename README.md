@@ -1,5 +1,5 @@
 - 📱 Dev Flutter
-- 👨🏼‍💻 +2 anos de experiência no mercado profissional
+- 👨🏼‍💻 +2 *anos* de experiência *profissional*
 - 💻 Cursando Bacharelado Sistemas de Informação - UFSC
 - 🏫 Técnico de TI IFSul, 2023
 
