@@ -1,21 +1,24 @@
-![Header](https://media.licdn.com/dms/image/v2/D4D16AQHB7iE7CgJPaw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716429974926?e=1750291200&v=beta&t=r_vFSigMuZug4yN6Ah_4nglUPQBAf7LeN3O52Hj_DWQ)
-
 # Hi, everything alright? My name is Eduardo, and welcome to my profile! 😊
 
 ## About me
-- 📱 Flutter Developer/Programmer  
+- 📱 Developer/Programmer  
 - 👨🏼‍💻 **Professional Experience:** 2+ years in the market as a Flutter Dev  
 - 🎓 **Education:** Bachelor's degree candidate in Computer and Information Systems (CIS) – UFSC  
 - 🏫 **Courses:** IT Technician at IFSul (2023)  
 
 ## Main projects
+- ☀️ [GetSummerized - Website to summarize through AI your texts](https://get-summerized.web.app/#/welcome)  
 - 🦾 [GymLog – App for load progression for your workouts!](https://github.com/eduardovfaleiro/gym-log)
-- ☀️ [GetSummerized - Website to summarize through AI your texts!](https://get-summerized.web.app/#/welcome)  
 - 🍚 [Pokédex – App integrated with PokeAPI to search for Pokémon](https://github.com/eduardovfaleiro/pokedex)  
 
 ## Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Skills
 - English (intermediate)  
