@@ -9,8 +9,9 @@
 - 🏫 **Courses:** IT Technician at IFSul (2023)  
 
 ## Main projects
+- 🦾 [GymLog – App for load progression for your workouts!](https://github.com/eduardovfaleiro/gym-log)
+- ☀️ [GetSummerized - Website to summarize through AI your texts!](https://get-summerized.web.app/#/welcome)  
 - 🍚 [Pokédex – App integrated with PokeAPI to search for Pokémon](https://github.com/eduardovfaleiro/pokedex)  
-- 🦾 [GymLog – App for load progression for your workouts!](https://github.com/eduardovfaleiro/gym-log)  
 
 ## Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
