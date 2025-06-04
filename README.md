@@ -1,7 +1,8 @@
+![header-3](https://github.com/user-attachments/assets/96cf3adb-3060-4d92-9308-48b386bf584d)
 # Hi, everything alright? My name is Eduardo, and welcome to my profile! 😊
 
 ## About me
-- 📱 Developer/Programmer  
+- 📱 Fullstack Developer/Programmer  
 - 👨🏼‍💻 **Professional Experience:** 2+ years in the market as a Flutter Dev  
 - 🎓 **Education:** Bachelor's degree candidate in Computer and Information Systems (CIS) – UFSC  
 - 🏫 **Courses:** IT Technician at IFSul (2023)  
