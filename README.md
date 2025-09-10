@@ -10,7 +10,8 @@
 ## Main projects
 - ☀️ Flask + Vue [GetSummerized - Website to summarize through AI your texts](https://github.com/eduardovfaleiro/get-summerized)  
 - 🦾 Flutter + Firebase [GymLog – App for load progression for your workouts!](https://github.com/eduardovfaleiro/gym-log)
-- 🍚 Flutter [Pokédex – App integrated with PokeAPI to search for Pokémon](https://github.com/eduardovfaleiro/pokedex)  
+- 🍚 Flutter [Pokédex – App integrated with PokeAPI to search for Pokémon](https://github.com/eduardovfaleiro/pokedex)
+- 🍽️ Java + Swing [Kantine - Your desktop + mobile solution for your canteen](https://github.com/eduardovfaleiro/kantine)   
 
 ## Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
