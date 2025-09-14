@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil! 😉
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 **Habilidades**
-- English (intermediário)
+- Inglês (intermediário)
 - Clean Architecture, DDD, MVC, Microsserviços
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo--faleiro)
