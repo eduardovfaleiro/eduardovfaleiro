@@ -1,7 +1,7 @@
 Bem-vindo ao meu perfil! 😉
 
 **Sobre mim**
-- 📱 Desenvolvedor Mobile
+- 📱 Desenvolvedor Fullstack
 - 👨🏼‍💻 Experiência Profissional: 2+ anos como Desenvolvedor Flutter 
 - 🎓 Educação: Graduando em Sistemas de Informação - Universidade Federal de Santa Catarina (UFSC)
 - 🏫 Cursos: Técnico em Informática - IFSul (2023)  
