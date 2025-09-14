@@ -1,22 +1,20 @@
-![header-3](https://github.com/user-attachments/assets/96cf3adb-3060-4d92-9308-48b386bf584d)
-# Hi, everything alright? My name is Eduardo, and welcome to my profile! 😊
+Bem-vindo ao meu perfil! 😉
 
-## About me
-- 📱 Mobile Developer
-- 👨🏼‍💻 **Professional Experience:** 2+ years in the market as a Flutter Programmer 
-- 🎓 **Education:** Bachelor's degree candidate in Computer and Information Systems (CIS) – UFSC  
-- 🏫 **Courses:** IT Technician at IFSul (2023)  
+**Sobre mim**
+- 📱 Desenvolvedor Mobile
+- 👨🏼‍💻 Experiência Profissional: 2+ anos como Desenvolvedor Flutter 
+- 🎓 Educação: Graduando em Sistemas de Informação - Universidade Federal de Santa Catarina (UFSC)
+- 🏫 Cursos: Técnico em Informática - IFSul (2023)  
 
-## Technologies
+**Tecnologias**
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## Skills
-- English (intermediate)
-- Clean Code / Clean Architecture  
-- SOLID  
+**Habilidades**
+- English (intermediário)
+- Clean Architecture, DDD, MVC, Microsserviços
 
-## Contacts
-- Email: eduardoviniciusfaleiro@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/eduardo-faleiro-867b87254](https://www.linkedin.com/in/eduardo-faleiro-867b87254)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo--faleiro)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoviniciusfaleiro@gmail.com)
 
