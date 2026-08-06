@@ -1,6 +1,6 @@
 # Eduardo Faleiro
 
-*Software Engineer · Performance & Mission-Critical Systems*
+*Software Engineer · Performance & Mission-Critical Systems*\
 *Information Systems @ UFSC*
 
 [LinkedIn](https://www.linkedin.com/in/eduardo--faleiro) · [Email](mailto:eduardoviniciusfaleiro@gmail.com)
