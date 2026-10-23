@@ -17,4 +17,4 @@ Experimentos de desempenho com PostgreSQL em conjuntos de dados de até 50 milh�
 
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/eduardo--faleiro) · E-mail
+[LinkedIn](https://www.linkedin.com/in/eduardo--faleiro)
