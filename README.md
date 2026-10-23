@@ -1,6 +1,6 @@
 # Eduardo Faleiro
 
-Engenheiro de Software com foco em **desenvolvimento backend, PostgreSQL e desempenho**.
+Software Engineer focado em **desenvolvimento backend, PostgreSQL e desempenho**.
 
 Atualmente, trabalho em sistemas de grande escala com **Java, Spring Boot, Kotlin e PostgreSQL**, incluindo a plataforma e-SUS APS, utilizada por mais de 4.000 municípios brasileiros.
 
