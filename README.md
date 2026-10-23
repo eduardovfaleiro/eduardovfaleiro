@@ -1,20 +1,20 @@
 # Eduardo Faleiro
 
-Software Engineer focused on **backend development, PostgreSQL, and performance**.
+Engenheiro de Software com foco em **desenvolvimento backend, PostgreSQL e desempenho**.
 
-Currently working on large-scale systems with **Java, Spring Boot, Kotlin, and PostgreSQL**, including the e-SUS APS platform used by 4,000+ Brazilian municipalities.
+Atualmente, trabalho em sistemas de grande escala com **Java, Spring Boot, Kotlin e PostgreSQL**, incluindo a plataforma e-SUS APS, utilizada por mais de 4.000 municípios brasileiros.
 
-Previously worked with **Python/FastAPI**, multi-tenant ERPs, financial applications, and frontend/mobile development.
+Anteriormente, trabalhei com **Python/FastAPI**, ERPs multiempresa, aplicações financeiras e desenvolvimento frontend e mobile.
 
-### Stack
+### Tecnologias
 
 `Python` · `Java` · `Kotlin` · `TypeScript` · `FastAPI` · `Spring Boot` · `PostgreSQL` · `React` · `Flutter` · `Docker`
 
-### Selected project
+### Projeto em destaque
 
 **[Fintech Ledger](https://github.com/eduardovfaleiro/fintech-ledger)**  
-PostgreSQL performance experiments with datasets of up to 50M rows, covering indexing, query plans, concurrency, integration tests, and benchmarks.
+Experimentos de desempenho com PostgreSQL em conjuntos de dados de até 50 milhões de linhas, abrangendo índices, planos de consulta, concorrência, testes de integração e benchmarks.
 
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/eduardo--faleiro) · [Email](mailto:eduardoviniciusfaleiro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eduardo--faleiro) · E-mail
