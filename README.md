@@ -1,4 +1,4 @@
-# Eduardo Faleiro
+# Eduardo V. Faleiro
 
 Software Engineer focado em **desenvolvimento backend, PostgreSQL e desempenho**.
 
